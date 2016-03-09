@@ -88,7 +88,7 @@ public class CurrencyView extends JFrame implements ActionListener{
 	}
 	
 	private void setWindowProperties(){
-		this.setSize(1024,680);
+		this.setSize(480,360);
 		this.setVisible(true);
 		this.setLocationRelativeTo(null);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
